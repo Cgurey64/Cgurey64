@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...Django
 - 🤔 I’m looking for help with ...,myprojects
 - 💬 Ask me about ...python
-- 📫 How to reach me: cabdiraxxin64@gmail.com
+- 📫 How to reach me: cabdiraxiim64@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am quick learner
 
