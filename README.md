@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Abdhirahim
+### Hi there 👋 I'm Abdirahim
 
 - 🔭 I’m currently working on ...my studies
 - 🌱 I’m currently learning ...Django
